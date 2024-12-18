@@ -33,18 +33,15 @@ Cet atelier est conçu pour vous aider à développer des compétences en inspec
 - **`documentation/`** : Guides et tutoriels d'analyse des protocoles TCP/IP.
   - `B1_Reseau_VIALETTE_CANDICE_Atelier02_pratique_TCP-IP.docx` : Document de référence pour l'atelier.
 
-- **`captures/`** : Captures de paquets au format `.pcap` pour analyse avec Wireshark.
-  - `20241213_ICMP_172.31.1.67_1.pcap` : Exemple de capture ICMP.
-  - `Trame_avancée.txt` : Description d'une trame complexe.
 
 - **`packet_tracer/`** : Fichiers Packet Tracer pour simulation au format `.pka`.
-  - `simulation_tcp_ip_1.pka` : Scénario de simulation TCP/IP.
+  - `Bloc1_sem1-atelier_02_Activite-5-PT-ve_VIALETTE_CANDICE.pka` : Scénario de simulation TCP/IP.
 
 - **`scripts/`** : Scripts pour automatiser les tâches d'analyse.
-  - `analyse_tcp_ip.sh` : Script d'analyse automatique des trames TCP/IP.
+  - `script_informations_systeme.exe` : Script d'analyse automatique des trames TCP/IP.
 
 - **`textes/`** : Fichiers texte pour compléments d'informations.
-  - `guide_tcp.txt` : Guide des protocoles TCP.
+  - `informations_systeme.txt` : Guide des protocoles TCP.
 
 - **`README.md`** : Guide du dépôt.
 
