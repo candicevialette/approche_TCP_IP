@@ -30,21 +30,29 @@ Cet atelier est conçu pour vous aider à développer des compétences en inspec
 
 ## 📂 **Contenu du Dépôt**
 
-- **`documentation/`** : Guides et tutoriels d'analyse des protocoles TCP/IP.
-  - `B1_Reseau_VIALETTE_CANDICE_Atelier02_pratique_TCP-IP.docx` : Document de référence pour l'atelier.
-
-
-- **`packet_tracer/`** : Fichiers Packet Tracer pour simulation au format `.pka`.
-  - `Bloc1_sem1-atelier_02_Activite-5-PT-ve_VIALETTE_CANDICE.pka` : Scénario de simulation TCP/IP.
-
-- **`scripts/`** : Scripts pour automatiser les tâches d'analyse.
-  - `script_informations_systeme.exe` : Script d'analyse automatique des trames TCP/IP.
-
-- **`textes/`** : Fichiers texte pour compléments d'informations.
-  - `informations_systeme.txt` : Guide des protocoles TCP.
-
-- **`README.md`** : Guide du dépôt.
-
+```
+📂decouverte-packet-tracer/
+|
+├── 📂Documents/
+|   ├── B1_Reseau_VIALETTE_CANDICE...
+|   └── B1_Reseau_VIALETTE_CANDICE...
+|
+├── 📂Réseaux/
+|   ├── Bloc1_sem1-atelier_02_Activite...
+|   └── Bloc1_sem1-atelier_02_Activite...
+|
+├── 📂image/
+|   └── background.png
+|
+├── 📂scripts/
+|   └── script_informations_systeme.exe
+|
+├── 📂textes/
+|   ├── informations_systeme.txt
+|   └── processus_actifs_et_backdoors...
+|
+└── README.md
+```
 ---
 
 ## ⚙️ **Prérequis**
