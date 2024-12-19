@@ -1,0 +1,18 @@
+Write-Host "Listing active processes..." -ForegroundColor Cyan
+Get-Process | Select-Object Id, ProcessName, CPU, StartTime | Sort-Object -Property CPU -Descending | Format-Table -AutoSize
+
+$backdoorPorts = @(4444, 1337, 8080)
+Write-Host "nSearching for potential backdoors on suspicious ports (4444, 1337, 8080)..." -ForegroundColor Red
+
+$networkConnections = Get-NetTCPConnection | Where-Object { $backdoorPorts -contains $_.LocalPort -and $_.State -eq 'Listen' }
+
+if ($networkConnections) {
+    foreach ($backdoor in $networkConnections) {
+        $process = Get-Process -Id $backdoor.OwningProcess -ErrorAction SilentlyContinue
+        if ($process) {
+            Write-Host "Potential Backdoor Detected! Process: $($process.ProcessName), PID: $($backdoor.OwningProcess), Listening on Port: $($backdoor.LocalPort)" -ForegroundColor Red
+        }
+    }
+} else {
+    Write-Host "No suspicious backdoors found on the specified ports." -ForegroundColor Green
+}

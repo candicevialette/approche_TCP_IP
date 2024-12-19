@@ -1,0 +1,702 @@
+=== Informations IPConfig ===
+
+Configuration IP de Windows
+
+   Nom de l'hôte . . . . . . . . . . : Ordi_Candice
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activé . . . . . . . . : Non
+   Proxy WINS activé . . . . . . . . : Non
+
+Carte réseau sans fil Connexion au réseau local* 1 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 14-F5-F9-BE-8F-81
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+
+Carte réseau sans fil Connexion au réseau local* 2 :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 96-F5-F9-BE-8F-81
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+
+Carte réseau sans fil Wi-Fi :
+
+   Suffixe DNS propre à la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Adresse physique . . . . . . . . . . . : 14-F5-F9-BE-8F-81
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+   Adresse IPv6. . . . . . . . . . . . . .: 2a02:842a:2c14:701:5e07:9493:8f28:d540(préféré) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a02:842a:2c14:701:d896:7f51:a48f:4bfd(préféré) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::d410:514b:67d:ab13%13(préféré) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.39(préféré) 
+   Masque de sous-réseau. . . . . . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . . . . . . . : vendredi 25 octobre 2024 09:33:50
+   Bail expirant. . . . . . . . . . . . . : samedi 26 octobre 2024 09:33:50
+   Passerelle par défaut. . . . . . . . . : fe80::1%13
+	                               192.168.1.1
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.1
+   IAID DHCPv6 . . . . . . . . . . . : 135591417
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-2E-2D-60-5A-14-F5-F9-BE-8F-81
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé
+
+
+=== Variables d'environnement ===
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\candi\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=ORDI_CANDICE
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOME=C:\Users\candi
+HOMEDRIVE=C:
+HOMEPATH=\Users\candi
+LOCALAPPDATA=C:\Users\candi\AppData\Local
+LOGONSERVER=\\ORDI_CANDICE
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\candi\OneDrive
+OneDriveConsumer=C:\Users\candi\OneDrive
+OS=Windows_NT
+Path=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\candi\AppData\Local\Microsoft\WindowsApps
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8c01
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.2
+PUBLIC=C:\Users\Public
+SystemDrive=C:
+SystemRoot=C:\Windows
+TCL_LIBRARY=C:\Users\candi\AppData\Local\Temp\_MEI56402\_tcl_data
+TEMP=C:\Users\candi\AppData\Local\Temp
+TK_LIBRARY=C:\Users\candi\AppData\Local\Temp\_MEI56402\_tk_data
+TMP=C:\Users\candi\AppData\Local\Temp
+USERDOMAIN=ORDI_CANDICE
+USERDOMAIN_ROAMINGPROFILE=ORDI_CANDICE
+USERNAME=candi
+USERPROFILE=C:\Users\candi
+windir=C:\Windows
+ZES_ENABLE_SYSMAN=1
+_PYI_APPLICATION_HOME_DIR=C:\Users\candi\AppData\Local\Temp\_MEI56402
+_PYI_ARCHIVE_FILE=E:\M Drogue\TP 2\script.exe
+_PYI_PARENT_PROCESS_LEVEL=1
+__COMPAT_LAYER=Installer
+
+
+=== Informations Netstat ===
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       État
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1324
+  RpcEptMapper
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Impossible d'obtenir les informations de propriétaire
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       6124
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       944
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       952
+ Impossible d'obtenir les informations de propriétaire
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2196
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2304
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3536
+ [spoolsv.exe]
+  TCP    0.0.0.0:49670          0.0.0.0:0              LISTENING       652
+ Impossible d'obtenir les informations de propriétaire
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING       12008
+ [Discord.exe]
+  TCP    127.0.0.1:49783        127.0.0.1:49784        ESTABLISHED     12588
+ [firefox.exe]
+  TCP    127.0.0.1:49784        127.0.0.1:49783        ESTABLISHED     12588
+ [firefox.exe]
+  TCP    127.0.0.1:49785        127.0.0.1:49786        ESTABLISHED     3252
+ [firefox.exe]
+  TCP    127.0.0.1:49786        127.0.0.1:49785        ESTABLISHED     3252
+ [firefox.exe]
+  TCP    192.168.1.39:139       0.0.0.0:0              LISTENING       4
+ Impossible d'obtenir les informations de propriétaire
+  TCP    192.168.1.39:49684     20.199.120.151:443     ESTABLISHED     4412
+  WpnService
+ [svchost.exe]
+  TCP    192.168.1.39:49760     162.159.134.234:443    ESTABLISHED     11360
+ [Discord.exe]
+  TCP    192.168.1.39:49830     34.107.243.93:443      ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50001     34.120.208.123:443     ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50023     178.33.250.154:443     ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50033     13.249.8.192:80        ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50035     18.245.194.122:443     ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50038     94.130.203.123:443     TIME_WAIT       0
+  TCP    192.168.1.39:50042     52.84.174.6:443        ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50043     23.51.100.75:443       ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50044     18.155.129.34:443      ESTABLISHED     12588
+ [firefox.exe]
+  TCP    192.168.1.39:50063     96.17.207.10:443       ESTABLISHED     3756
+  WpnUserService_2d054
+ [svchost.exe]
+  TCP    192.168.1.39:50064     20.189.173.10:443      ESTABLISHED     4324
+ Impossible d'obtenir les informations de propriétaire
+  TCP    192.168.1.39:50065     20.189.173.9:443       ESTABLISHED     9220
+ [OneDrive.exe]
+  TCP    192.168.1.39:50066     20.189.173.9:443       ESTABLISHED     8984
+ [FileSyncHelper.exe]
+  TCP    192.168.1.39:50067     40.79.141.154:443      ESTABLISHED     10592
+ [WINWORD.EXE]
+  TCP    [::]:135               [::]:0                 LISTENING       1324
+  RpcEptMapper
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Impossible d'obtenir les informations de propriétaire
+  TCP    [::]:49664             [::]:0                 LISTENING       944
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING       952
+ Impossible d'obtenir les informations de propriétaire
+  TCP    [::]:49666             [::]:0                 LISTENING       2196
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       2304
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       3536
+ [spoolsv.exe]
+  TCP    [::]:49670             [::]:0                 LISTENING       652
+ Impossible d'obtenir les informations de propriétaire
+  TCP    [::1]:42050            [::]:0                 LISTENING       10000
+ [Microsoft.SharePoint.exe]
+  TCP    [::1]:49669            [::]:0                 LISTENING       4356
+ [jhi_service.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:49718  [2a02:26f0:ea00::6873:5363]:443  CLOSE_WAIT      6444
+ [SearchHost.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:49733  [2603:1020:805:3::401]:443  ESTABLISHED     9220
+ [OneDrive.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:49999  [2603:1026:2400:1::e]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50000  [2603:1026:c09:858::2]:443  ESTABLISHED     10592
+ [WINWORD.EXE]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50003  [2a00:1450:4007:819::2004]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50004  [2a00:1450:4007:813::2003]:80  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50005  [2a00:1450:4007:810::200e]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50006  [2a00:1450:4007:810::200e]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50007  [2a00:1450:4007:813::2003]:80  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50008  [2a00:1450:4007:813::2003]:80  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50009  [2600:1901:0:8e3f::]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50010  [2600:1901:0:e988::]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50011  [2600:9000:2662:d800:5:b7cc:d3c0:93a1]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50012  [2606:4700::6812:9af]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50013  [2606:4700::6812:9af]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50015  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50016  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50017  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50018  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50019  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50020  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50021  [2606:4700::6812:9af]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50030  [2606:4700:3037::6815:29b1]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50031  [2600:9000:2662:d800:5:b7cc:d3c0:93a1]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50032  [2600:9000:2662:d800:5:b7cc:d3c0:93a1]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50034  [2a00:1450:4007:80c::2002]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50036  [2606:4700::6812:bb1f]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50040  [2a00:1450:4007:813::200e]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50041  [2a00:1450:4007:80c::2008]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50045  [2606:4700:10::ac43:246e]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50046  [2606:4700:10::ac43:246e]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50047  [2606:4700:10::6816:3456]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50049  [2606:4700:10::6816:445]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50050  [2606:4700:10::6816:445]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50051  [2001:4860:4802:34::36]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50052  [2001:4860:4802:34::36]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50053  [2001:4860:4802:34::36]:443  TIME_WAIT       0
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50054  [2606:4700:10::ac43:17ea]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50055  [2a00:1450:4007:80b::2002]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50056  [2a00:1450:4007:80b::2002]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50057  [2600:9000:2662:d800:5:b7cc:d3c0:93a1]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50058  [2a00:1450:4007:813::200e]:443  ESTABLISHED     12588
+ [firefox.exe]
+  TCP    [2a02:842a:2c14:701:d896:7f51:a48f:4bfd]:50059  [2a00:1450:4007:80c::2008]:443  ESTABLISHED     12588
+ [firefox.exe]
+  UDP    0.0.0.0:500            *:*                                    4164
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                                    4164
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                                    6124
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:53501          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:54523          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:57598          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:58542          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:59010          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:62315          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:63350          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:63593          *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:49664        127.0.0.1:49664                        4276
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:63544        *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.39:137       *:*                                    4
+ Impossible d'obtenir les informations de propriétaire
+  UDP    192.168.1.39:138       *:*                                    4
+ Impossible d'obtenir les informations de propriétaire
+  UDP    192.168.1.39:1900      *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.39:63543     *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                                    4164
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:4500              *:*                                    4164
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:53501             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:54523             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:57598             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:58542             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:59010             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:62315             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:63350             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:63593             *:*                                    2172
+  Dnscache
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:63542            *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d410:514b:67d:ab13%13]:1900  *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d410:514b:67d:ab13%13]:63541  *:*                                    11492
+  SSDPSRV
+ [svchost.exe]
+
+
+=== Table de routage ===
+===========================================================================
+Liste d'Interfaces
+  9...14 f5 f9 be 8f 81 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...96 f5 f9 be 8f 81 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+ 13...14 f5 f9 be 8f 81 ......Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+Itinéraires actifs :
+Destination réseau    Masque réseau  Adr. passerelle   Adr. interface Métrique
+          0.0.0.0          0.0.0.0      192.168.1.1     192.168.1.39     55
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link      192.168.1.39    311
+     192.168.1.39  255.255.255.255         On-link      192.168.1.39    311
+    192.168.1.255  255.255.255.255         On-link      192.168.1.39    311
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.1.39    311
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.1.39    311
+===========================================================================
+Itinéraires persistants :
+  Aucun
+
+IPv6 Table de routage
+===========================================================================
+Itinéraires actifs :
+ If Metric Network Destination      Gateway
+ 13     71 ::/0                     fe80::1
+  1    331 ::1/128                  On-link
+ 13     71 2a02:842a:2c14:701::/64  On-link
+ 13    311 2a02:842a:2c14:701:5e07:9493:8f28:d540/128
+                                    On-link
+ 13    311 2a02:842a:2c14:701:d896:7f51:a48f:4bfd/128
+                                    On-link
+ 13    311 fe80::/64                On-link
+ 13    311 fe80::d410:514b:67d:ab13/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 13    311 ff00::/8                 On-link
+===========================================================================
+Itinéraires persistants :
+  Aucun
+
+
+=== Processus actifs ===
+
+Nom de l'image                 PID Nom de la sessio Numéro de s Utilisation 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 Ko
+System                           4 Services                   0     1 796 Ko
+Registry                       104 Services                   0    66 640 Ko
+smss.exe                       504 Services                   0     1 096 Ko
+csrss.exe                      864 Services                   0     6 064 Ko
+wininit.exe                    952 Services                   0     6 964 Ko
+csrss.exe                      960 Console                    1     6 728 Ko
+winlogon.exe                  1020 Console                    1    11 404 Ko
+services.exe                   652 Services                   0     9 160 Ko
+lsass.exe                      944 Services                   0    24 076 Ko
+svchost.exe                   1152 Services                   0    30 472 Ko
+fontdrvhost.exe               1188 Console                    1    12 348 Ko
+fontdrvhost.exe               1184 Services                   0     3 012 Ko
+WUDFHost.exe                  1212 Services                   0    16 340 Ko
+svchost.exe                   1324 Services                   0    15 536 Ko
+svchost.exe                   1376 Services                   0     8 284 Ko
+svchost.exe                   1504 Services                   0     7 032 Ko
+svchost.exe                   1512 Services                   0    10 072 Ko
+svchost.exe                   1520 Services                   0     9 524 Ko
+svchost.exe                   1588 Services                   0    15 228 Ko
+IntelCpHDCPSvc.exe            1628 Services                   0     5 932 Ko
+svchost.exe                   1636 Services                   0     9 012 Ko
+svchost.exe                   1696 Services                   0     5 708 Ko
+svchost.exe                   1728 Services                   0     7 676 Ko
+svchost.exe                   1884 Services                   0     8 404 Ko
+dwm.exe                       2020 Console                    1   181 020 Ko
+igfxCUIServiceN.exe            604 Services                   0    10 432 Ko
+svchost.exe                   2100 Services                   0    11 696 Ko
+svchost.exe                   2172 Services                   0     9 284 Ko
+svchost.exe                   2196 Services                   0    18 044 Ko
+svchost.exe                   2264 Services                   0    10 420 Ko
+svchost.exe                   2280 Services                   0    12 176 Ko
+svchost.exe                   2288 Services                   0     5 868 Ko
+svchost.exe                   2304 Services                   0    15 764 Ko
+svchost.exe                   2416 Services                   0     8 528 Ko
+svchost.exe                   2424 Services                   0    17 560 Ko
+Memory Compression            2508 Services                   0   281 116 Ko
+svchost.exe                   2544 Services                   0    14 540 Ko
+svchost.exe                   2764 Services                   0     6 192 Ko
+svchost.exe                   2876 Services                   0    16 760 Ko
+svchost.exe                   2920 Services                   0     6 616 Ko
+svchost.exe                   2992 Services                   0    14 068 Ko
+svchost.exe                   3052 Services                   0     7 168 Ko
+svchost.exe                   2296 Services                   0     7 612 Ko
+svchost.exe                   1768 Services                   0     6 688 Ko
+svchost.exe                   2392 Services                   0    10 024 Ko
+svchost.exe                   3256 Services                   0     7 544 Ko
+svchost.exe                   3408 Services                   0    18 256 Ko
+svchost.exe                   3444 Services                   0    11 592 Ko
+spoolsv.exe                   3536 Services                   0    14 020 Ko
+svchost.exe                   3548 Services                   0     6 776 Ko
+sihost.exe                    3556 Console                    1    32 072 Ko
+svchost.exe                   3596 Services                   0    19 756 Ko
+svchost.exe                   3608 Console                    1    25 612 Ko
+svchost.exe                   3676 Console                    1     6 004 Ko
+svchost.exe                   3692 Services                   0     7 680 Ko
+igfxEMN.exe                   3700 Console                    1    13 260 Ko
+svchost.exe                   3756 Console                    1    34 824 Ko
+MicrosoftEdgeUpdate.exe       3876 Services                   0     3 604 Ko
+svchost.exe                   4008 Services                   0    15 688 Ko
+taskhostw.exe                 4064 Console                    1    19 996 Ko
+svchost.exe                   4104 Services                   0    15 192 Ko
+svchost.exe                   4108 Services                   0    42 304 Ko
+svchost.exe                   4124 Services                   0    21 296 Ko
+BitlockerAnywhereService.     4136 Services                   0    10 996 Ko
+svchost.exe                   4164 Services                   0     8 012 Ko
+esif_uf.exe                   4256 Services                   0     6 380 Ko
+RtkBtManServ.exe              4264 Services                   0     7 748 Ko
+svchost.exe                   4272 Services                   0    20 436 Ko
+svchost.exe                   4276 Services                   0    10 868 Ko
+svchost.exe                   4288 Services                   0     8 932 Ko
+NahimicService.exe            4308 Services                   0    17 132 Ko
+OneApp.IGCC.WinService.ex     4316 Services                   0    39 768 Ko
+MpDefenderCoreService.exe     4324 Services                   0    23 184 Ko
+svchost.exe                   4332 Services                   0     6 124 Ko
+MsMpEng.exe                   4340 Services                   0   201 336 Ko
+jhi_service.exe               4356 Services                   0     6 908 Ko
+OfficeClickToRun.exe          4364 Services                   0    53 576 Ko
+svchost.exe                   4412 Services                   0    15 668 Ko
+WMIRegistrationService.ex     4420 Services                   0    14 940 Ko
+RtkAudUService64.exe          4436 Services                   0    12 180 Ko
+IntelAudioService.exe         4476 Services                   0    34 052 Ko
+svchost.exe                   4512 Services                   0    12 264 Ko
+WmiPrvSE.exe                  5532 Services                   0    14 684 Ko
+explorer.exe                  6084 Console                    1   364 336 Ko
+svchost.exe                   6124 Services                   0    18 056 Ko
+AggregatorHost.exe            5256 Services                   0     8 768 Ko
+svchost.exe                   6236 Services                   0     8 704 Ko
+svchost.exe                   6324 Console                    1    17 864 Ko
+svchost.exe                   6408 Services                   0    12 028 Ko
+svchost.exe                   6472 Services                   0     7 700 Ko
+svchost.exe                   6560 Services                   0    10 848 Ko
+StartMenuExperienceHost.e     4212 Console                    1    88 808 Ko
+SearchHost.exe                6444 Console                    1   109 072 Ko
+Widgets.exe                   6224 Console                    1    45 668 Ko
+RuntimeBroker.exe             6632 Console                    1    29 908 Ko
+RuntimeBroker.exe             6776 Console                    1    32 144 Ko
+WidgetService.exe             3336 Console                    1    21 944 Ko
+svchost.exe                   3852 Console                    1    16 928 Ko
+svchost.exe                   8024 Services                   0     5 640 Ko
+dllhost.exe                   7684 Console                    1    14 360 Ko
+SearchIndexer.exe             8260 Services                   0    14 568 Ko
+ctfmon.exe                    8928 Console                    1    27 992 Ko
+LockApp.exe                   9488 Console                    1    57 132 Ko
+RuntimeBroker.exe             9592 Console                    1    35 104 Ko
+svchost.exe                   9852 Console                    1    10 540 Ko
+SecurityHealthSystray.exe    10132 Console                    1    10 392 Ko
+SecurityHealthService.exe    10152 Services                   0    18 560 Ko
+NisSrv.exe                    5972 Services                   0    10 944 Ko
+RtkAudUService64.exe          9372 Console                    1    11 956 Ko
+OneDrive.exe                  9220 Console                    1   115 980 Ko
+Microsoft.SharePoint.exe     10000 Console                    1    38 400 Ko
+msedge.exe                    8188 Console                    1   108 984 Ko
+msedge.exe                    9836 Console                    1     8 208 Ko
+msedge.exe                    7492 Console                    1    34 860 Ko
+msedge.exe                    8152 Console                    1    34 048 Ko
+msedge.exe                    9012 Console                    1    17 052 Ko
+FileSyncHelper.exe            8984 Services                   0    20 172 Ko
+msedge.exe                   10768 Console                    1    96 924 Ko
+msedge.exe                   10964 Console                    1    23 976 Ko
+svchost.exe                  11148 Services                   0    13 656 Ko
+svchost.exe                  10552 Services                   0     6 844 Ko
+svchost.exe                  10500 Services                   0    11 652 Ko
+Discord.exe                  11012 Console                    1    92 524 Ko
+Discord.exe                   8952 Console                    1    32 800 Ko
+Discord.exe                  11324 Console                    1    96 552 Ko
+Discord.exe                  11360 Console                    1    52 228 Ko
+svchost.exe                  11452 Services                   0    20 976 Ko
+svchost.exe                  11492 Services                   0     7 240 Ko
+Discord.exe                  12008 Console                    1   260 876 Ko
+CrossDeviceService.exe       12084 Console                    1    62 792 Ko
+Discord.exe                  11832 Console                    1    77 644 Ko
+RuntimeBroker.exe            10712 Console                    1    11 092 Ko
+svchost.exe                  13000 Services                   0    18 356 Ko
+NhNotifSys.exe               13244 Console                    1    22 848 Ko
+svchost.exe                  11744 Services                   0     9 796 Ko
+svchost.exe                  11644 Services                   0     7 848 Ko
+PhoneExperienceHost.exe      12024 Console                    1   144 848 Ko
+firefox.exe                  12588 Console                    1   278 448 Ko
+firefox.exe                   3308 Console                    1   178 348 Ko
+firefox.exe                   3252 Console                    1    14 148 Ko
+svchost.exe                   6272 Services                   0    11 028 Ko
+RuntimeBroker.exe            10928 Console                    1    19 084 Ko
+firefox.exe                   8480 Console                    1    87 620 Ko
+ShellExperienceHost.exe       8060 Console                    1    71 072 Ko
+RuntimeBroker.exe            12496 Console                    1    24 984 Ko
+SystemSettingsBroker.exe      2112 Console                    1    32 524 Ko
+firefox.exe                   2188 Console                    1    48 312 Ko
+svchost.exe                   4624 Services                   0     7 128 Ko
+firefox.exe                   8372 Console                    1    14 432 Ko
+firefox.exe                   5180 Console                    1   214 076 Ko
+firefox.exe                  12636 Console                    1    41 924 Ko
+svchost.exe                  12700 Console                    1     9 556 Ko
+svchost.exe                  13228 Services                   0    13 424 Ko
+WUDFHost.exe                  4172 Services                   0     8 628 Ko
+SystemSettings.exe            6576 Console                    1     2 652 Ko
+ApplicationFrameHost.exe      6032 Console                    1    30 144 Ko
+svchost.exe                  13420 Services                   0    13 976 Ko
+svchost.exe                  13480 Services                   0    10 356 Ko
+MoUsoCoreWorker.exe          13556 Services                   0    33 456 Ko
+UserOOBEBroker.exe           13624 Console                    1     9 272 Ko
+svchost.exe                   9128 Console                    1    14 000 Ko
+OOBE_DataService.exe          4148 Services                   0    23 160 Ko
+svchost.exe                  14280 Services                   0    11 304 Ko
+svchost.exe                  14060 Services                   0    13 816 Ko
+WINWORD.EXE                  10592 Console                    1   421 280 Ko
+ai.exe                        4968 Console                    1    20 292 Ko
+svchost.exe                  13416 Services                   0     7 896 Ko
+msedgewebview2.exe            4928 Console                    1    11 324 Ko
+msedgewebview2.exe            5100 Console                    1     7 604 Ko
+msedgewebview2.exe            6664 Console                    1     9 764 Ko
+msedgewebview2.exe            5724 Console                    1     4 420 Ko
+msedgewebview2.exe           13948 Console                    1     1 944 Ko
+msedgewebview2.exe           13908 Console                    1     5 604 Ko
+msedgewebview2.exe           13636 Console                    1     2 360 Ko
+firefox.exe                   9520 Console                    1    33 844 Ko
+firefox.exe                   8888 Console                    1    17 540 Ko
+ai.exe                       10200 Console                    1    58 300 Ko
+smartscreen.exe               2720 Console                    1    10 788 Ko
+audiodg.exe                   7336 Services                   0    16 204 Ko
+firefox.exe                   2488 Console                    1    28 080 Ko
+firefox.exe                   6916 Console                    1    28 100 Ko
+firefox.exe                   4144 Console                    1    28 088 Ko
+svchost.exe                  11216 Services                   0     7 700 Ko
+script.exe                    5640 Console                    1     7 476 Ko
+script.exe                   11796 Console                    1    29 204 Ko
+cmd.exe                       8892 Console                    1     4 516 Ko
+conhost.exe                   6984 Console                    1    12 416 Ko
+tasklist.exe                  8576 Console                    1     9 856 Ko
+
+
+=== Tests de Ping ===
+--- Ping Localhost ---
+
+Envoi d'une requête 'Ping'  127.0.0.1 avec 32 octets de données :
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+Réponse de 127.0.0.1 : octets=32 temps<1ms TTL=128
+
+Statistiques Ping pour 127.0.0.1:
+    Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
+Durée approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
+
+--- Ping Google ---
+
+Envoi d'une requête 'ping' sur www.google.com [2a00:1450:4007:818::2004] avec 32 octets de données :
+Réponse de 2a00:1450:4007:818::2004 : temps=88 ms 
+Réponse de 2a00:1450:4007:818::2004 : temps=20 ms 
+Réponse de 2a00:1450:4007:818::2004 : temps=22 ms 
+Réponse de 2a00:1450:4007:818::2004 : temps=22 ms 
+
+Statistiques Ping pour 2a00:1450:4007:818::2004:
+    Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
+Durée approximative des boucles en millisecondes :
+    Minimum = 20ms, Maximum = 88ms, Moyenne = 38ms
+
+
+=== Informations Système ===
+
+Nom de l'hôte:                              ORDI_CANDICE
+Nom du système d'exploitation:              Microsoft Windows 11 Famille
+Version du système:                         10.0.22631 N/A build 22631
+Fabricant du système d'exploitation:        Microsoft Corporation
+Configuration du système d'exploitation:    Station de travail autonome
+Type de build du système d'exploitation:    Multiprocessor Free
+Propriétaire enregistré:                    candice.vialette@gmail.com
+Organisation enregistrée:                   N/A
+Identificateur de produit:                  00342-21064-17157-AAOEM
+Date d'installation originale:              19/07/2023, 15:01:58
+Heure de démarrage du système:              25/10/2024, 09:33:36
+Fabricant du système:                       MEDION
+Modèle du système:                          E16423
+Type du système:                            x64-based PC
+Processeur(s):                              1 processeur(s) installé(s).
+                                            [01] : Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2995 MHz
+Version du BIOS:                            American Megatrends International MD-BI-16.1-XU133TR400-TA60A-001-M, 22/07/2024
+Répertoire Windows:                         C:\Windows
+Répertoire système:                         C:\Windows\system32
+Périphérique d'amorçage:                    \Device\HarddiskVolume1
+Option régionale du système:                fr;Français (France)
+Paramètres régionaux d'entrée:              fr;Français (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+Mémoire physique totale:                    7 934 Mo
+Mémoire physique disponible:                2 698 Mo
+Mémoire virtuelle : taille maximale:        11 006 Mo
+Mémoire virtuelle : disponible:             4 534 Mo
+Mémoire virtuelle : en cours d'utilisation: 6 472 Mo
+Emplacements des fichiers d'échange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\ORDI_CANDICE
+Correctif(s):                               7 Corrections installées.
+                                            [01]: KB5044033
+                                            [02]: KB5027397
+                                            [03]: KB5031274
+                                            [04]: KB5036212
+                                            [05]: KB5044285
+                                            [06]: KB5043937
+                                            [07]: KB5046247
+Carte(s) réseau:                            1 carte(s) réseau installée(s).
+                                            [01]: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+                                                  Nom de la connexion : Wi-Fi
+                                                  DHCP activé :         Oui
+                                                  Serveur DHCP :        192.168.1.1
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.39
+                                                  [02]: fe80::d410:514b:67d:ab13
+                                                  [03]: 2a02:842a:2c14:701:d896:7f51:a48f:4bfd
+                                                  [04]: 2a02:842a:2c14:701:5e07:9493:8f28:d540
+Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuel : Oui
+                                            Virtualisation activée dans le microprogramme : Oui
+                                            Traduction d'adresse de second niveau : Oui
+                                            Prévention de l'exécution des données disponible : Oui
+
+
+=== Informations du Domaine ===
+Impossible d'obtenir le nom du contrôleur de domaine : Status = 1355 0x54b ERROR_NO_SUCH_DOMAIN
+
+
